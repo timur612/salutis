@@ -1,5 +1,5 @@
 # salutis
-![alt text](https://github.com/timur612/salutis/blob/main/assets/ArrowLeftOutline.png)
+![alt text](https://github.com/timur612/salutis/blob/main/forreadme/logo.png)
 <br>
 b2b Super app, включающий в себя:
 * календарь с онлайн спортивными занятиями по фитнесу, йоге
