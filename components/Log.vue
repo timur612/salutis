@@ -59,11 +59,9 @@ export default {
             axios.post('https://ululaapi.herokuapp.com/users/login',postBody)
                 .then(response => {this.navigation.navigate("IOSTabs")})
                 .catch((e) => {
-                    if((this.login=="user" && this.password=="12345") || (this.login=="mpit" && this.password=="12345")){
-                        this.navigation.navigate("IOSTabs")
-                    }else{
+           
                         this.errors.push(e)
-                    }
+                    
                 })
         }
     }
